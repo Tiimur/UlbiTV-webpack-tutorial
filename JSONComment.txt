@@ -1,0 +1,10 @@
+  "//": [
+    "1. Пакет ts-loader - необходим для загрузки typescript (.ts) файлов в js файл.\n",
+    "2. Пакет typescript - компилятор для typescript.\n",
+    "3. Пакет ts-node - позволяет запускать файлы TypeScript напрямую без необходимости предварительной компиляции. Необходим для webpack.config.ts.\n",
+    "4. Пакет @types/node - содержит определения типов TS для Node.js. webpack.config.ts используется в среде Node.js.\n",
+    "5. Пакет @types/webpack - предоставляет определения типов TS для Webpack, необходим для webpack.config.ts.\n",
+    "6. Пакет @types/webpack-dev-server - предоставляет определения типов TS для webpack-dev-server.\n",
+    "7. Пакет @types/react - предоставляет определения типов TS для react.\n",
+    "7. Пакет @types/react-dom - предоставляет определения типов TS для reactDom.\n"
+  ],
